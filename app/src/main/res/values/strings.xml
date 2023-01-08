@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fresh News</string>
+    <string name="txt_publish">Publish On : </string>
+    <string name="txt_no_feed">No Feed Found!</string>
+
+    <string name="txt_whoop">Whoops!!</string>
+    <string name="txt_internet_description">No Internet connection was found. Check your connection or try again.</string>
+    <string name="txt_try_again">Try again</string>
+
+    <string-array name="categories_array">
+        <item>Astrology</item>
+        <item>Art-Culture</item>
+        <item>Books</item>
+        <item>Business</item>
+        <item>Car Bike</item>
+        <item>Cities</item>
+        <item>Education</item>
+        <item>Elections</item>
+        <item>Lifestyle</item>
+    </string-array>
+</resources>
