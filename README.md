@@ -7,7 +7,7 @@ The UI is basic to show news listing and details.
 Also app support offline mode as well.
 
 Tech Skills implemented in app:
-
+- Kotlin
 - Jetpack Compose : Modern UI implementation
 - Room : Local Database for support offline mode
 - Coil : For image loading from Url in ImageView
