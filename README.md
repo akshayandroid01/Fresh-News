@@ -1,6 +1,6 @@
 # Fresh-News
 
-This app showing multi categories news fetched from Hindustan time api.
+This app showing multi categories news fetched from Hindustan time Rss Feeds.
 
 I have used hindustan time RSS feed to show news for testing purpose. 
 The UI is basic to show news listing and details.
